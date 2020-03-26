@@ -2,11 +2,12 @@
 
 
 
-Here you can find detailed implementation of seq2seq chatbot model using tensorflow, model trained on Google cloud TPU in Google colaboratory, 
+Here you can find detailed implementation of seq2seq chatbot model and Hidden Markov Chain using tensorflow, model trained on Google cloud TPU in Google colaboratory, 
 also here you can find some interesting solutions and ideas of adaptation variable size input and output seq2seq model to training using  static computation graph and static shape gradient tensors.
 
-Seq2seq.ipynb - implementation of seq2seq machine translation model using keras LSTM Cells, trained on dialogues from movies dataset.
-wise_bot.ipynb - implementation of Hidden MArkov Chain using keras LSTM cells.
+Seq2seq.ipynb - implementation of seq2seq machine translation model using keras LSTM cells, trained on dialogues from movies dataset.
 
-Here you can find trained with this script on movies dialogues telegram chatbot, you can try to type something to it in english @Artificial_interlocutor_bot .
+wise_bot.ipynb - implementation of Hidden Markov Chain using keras LSTM cells, trained on Philosophical quotes dataset.
+
+Here you can find trained with this scripts telegram chatbot, not is currently online and you can try to interact with this bot  @Artificial_interlocutor_bot .
 
