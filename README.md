@@ -9,5 +9,5 @@ Seq2seq.ipynb - implementation of seq2seq machine translation model using keras 
 
 wise_bot.ipynb - implementation of Hidden Markov Chain using keras LSTM cells, trained on Philosophical quotes dataset.
 
-Here you can find trained with this scripts telegram chatbot, bot is currently online and you can try to interact with this bot  @Artificial_interlocutor_bot .
+Here you can find trained with those scripts telegram chatbot, bot is currently online and you can try to interact with this bot  @Artificial_interlocutor_bot .
 
